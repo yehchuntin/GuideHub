@@ -11,7 +11,8 @@ const firebaseConfig = {
   projectId: "guidehub-bf5d7",
   storageBucket: "guidehub-bf5d7.firebasestorage.app",
   messagingSenderId: "653273697338",
-  appId: "1:653273697338:web:6a29b480964b2158eaf903"
+  appId: "1:653273697338:web:6a29b480964b2158eaf903",
+  measurementId: "G-RD3K1PPLYP"
 };
 
 // Initialize Firebase
