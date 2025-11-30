@@ -1,0 +1,7 @@
+{
+  "name": "GuideHub",
+  "description": "AI-powered private tour guide matching platform connecting travelers with local experts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
